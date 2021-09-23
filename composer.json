@@ -1,0 +1,21 @@
+{
+    "name": "felipeoli7eira/href",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "src/"
+        },
+        "files": [
+            "./src/triggers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "felipeoli7eira",
+            "email": "me.felipeoliveira@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "filp/whoops": "^2.14",
+        "symfony/var-dumper": "^5.3"
+    }
+}
